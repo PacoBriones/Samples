@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hago un cambio
+=======
+Hago otro cambio
+>>>>>>> c61317be74b4fead0d14e7e7e6fa5ab246fa9300
