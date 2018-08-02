@@ -4,4 +4,9 @@ Hago un cambio
 Hago otro cambio
 >>>>>>> c61317be74b4fead0d14e7e7e6fa5ab246fa9300
 
+<<<<<<< HEAD
 Estoy agregando un cambio para ser confirmado por gitbash desde workspaces
+=======
+
+Cambio realizado desde laptop
+>>>>>>> c742612bccf6710c78dc03fd87443d3ed22609af
